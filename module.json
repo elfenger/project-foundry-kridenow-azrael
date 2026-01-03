@@ -1,6 +1,6 @@
 {
-  "id": "options",
-  "title": "Options",
+  "id": "DnD5Addons",
+  "title": "DnD5Addons",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "13",
@@ -8,9 +8,9 @@
   },
   "packs": [
     {
-      "name": "Options",
-      "label": "Options",
-      "path": "packs/Options",
+      "name": "DnD5Addons",
+      "label": "DnD5Addons",
+      "path": "packs/DnD5Addons",
       "type": "Item",
       "ownership": {
         "PLAYER": "OBSERVER",
