@@ -1,7 +1,7 @@
 {
   "id": "DnD5Addons",
   "title": "DnD5Addons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
